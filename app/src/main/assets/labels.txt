@@ -1,0 +1,14 @@
+0 Argentina
+1 Belgica
+2 Brasil
+3 Colombia
+4 Croacia
+5 Ecuador
+6 España
+7 Francia
+8 Gran Bretaña
+9 Japón
+10 Mexico
+11 Portugal
+12 Suecia
+13 Uruguay
